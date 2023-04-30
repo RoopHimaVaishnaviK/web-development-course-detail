@@ -1,0 +1,199 @@
+header nav ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 1px;
+    margin: 20;
+    text-align: center;
+    align-content: center;
+
+  }
+
+  header nav ul li {
+    margin: 0 90px;
+    align-content: center;
+    font-weight: bold;
+    
+  }
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  a:hover{
+    color: white;
+    background-color: #005254;
+    padding: 10px;
+  }
+
+.profile_pic{
+    width: 230px;
+    height: 350px;
+}
+
+.container1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #005254;
+    color: white;
+    width: 100%;
+    height: 400px;
+
+}
+
+.pic{
+    display: inline-block;
+    width: 40%;  
+    align-content: center;  
+    margin: 200px;
+}
+.name_desig{
+    display: inline-block;
+    width: 60%; 
+    text-align: center;
+    margin-left: -500px;
+    font-weight: bold;
+
+}
+.container2{
+    width: 100%;
+    height: 100px;
+}
+
+.headings{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.container3{
+    width: 100%;
+    height: 180px;
+
+
+}
+
+#container3_1{
+    display: flex;
+    width:100%;
+}
+
+.langs{
+    display: inline-block;
+    width: 45%;
+    text-align: left;
+    padding-left: 1em;
+    font-weight: bold;
+}
+
+.langs_value{
+    display: inline-block;
+    width: 55%;
+    text-align: left;
+    background-color: #005254;
+    color: white;
+    padding-left: 1em;
+    border-color: white;
+    border: solid;
+    padding: 6px;
+}
+.container4{
+    width: 100%;
+    height: 160px;
+    
+
+}
+
+.container4_1{
+    display: inline-block;
+    width: 50%;
+    text-align: left;
+    padding-left: 1em;
+    font-weight: bold;
+}
+.container4_2{
+    display: inline-block;
+    width: 50%;
+    text-align: right;
+    font-weight: bold;
+}
+.container4_1_wb{
+    display: inline-block;
+    width: 50%;
+    text-align: left;
+    padding-left: 1em;
+}
+.container4_2_wb{
+    display: inline-block;
+    width: 50%;
+    text-align: right;
+}
+
+.container5{
+    width: 100%;
+    color: white;
+    background-color: #005254;
+    border: solid;
+    padding: 9px;
+}
+
+.container6{
+    background-color: #005254;
+    color: white;
+    padding: 25px;
+
+}
+#cont_inf{
+    text-align: center;
+}
+#cont_inf_flex{
+    display: flex;
+    width: 100%;
+}
+.container6_1{
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    
+}
+
+.container6_2{
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+
+}
+
+#facebook_icon{
+    width:45px;
+    height:45px;
+   
+}
+
+#twitter_icon{
+    width:45px;
+    height:45px;
+}
+#linkedin_icon{
+    width: 45px;
+    height:45px;
+}
+.icon1{
+    display: inline-block;
+    width:33%;
+    text-align: right;
+}
+.icon2{
+    display: inline-block;
+    width:33%;    
+    text-align: center;
+    
+}
+.icon3{
+    display: inline-block;
+    width:33%;
+    text-align: left;
+    margin: -5px;
+
+}
+
+ 

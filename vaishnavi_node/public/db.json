@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "644d85fdce1f7b2e1f64b67f",
+    "course_number": "CS101",
+    "course_name": "Introduction to Computer Science",
+    "credits": 4,
+    "lecturer": "Dr. John Smith",
+    "location": "Building A, Room 101"
+  },
+  {
+    "_id": "644d85fdce1f7b2e1f64b680",
+    "course_number": "ENG202",
+    "course_name": "Shakespearean Literature",
+    "credits": 3,
+    "lecturer": "Dr. Jane Doe",
+    "location": "Building B, Room 202"
+  },
+  {
+    "_id": "644d85fdce1f7b2e1f64b681",
+    "course_number": "HIS101",
+    "course_name": "World History",
+    "credits": 3,
+    "lecturer": "Dr. James Johnson",
+    "location": "Building C, Room 301"
+  },
+  {
+    "_id": "644d8626ce1f7b2e1f64b683",
+    "course_number": "PHYS101",
+    "course_name": "Introductory Physics",
+    "credits": 3,
+    "lecturer": "Dr. Peter Wong",
+    "location": "Building F, Room 101"
+  },
+  {
+    "_id": "644d8626ce1f7b2e1f64b684",
+    "course_number": "PSYCH201",
+    "course_name": "Abnormal Psychology",
+    "credits": 3,
+    "lecturer": "Dr. Emily Davis",
+    "location": "Building G, Room 202"
+  },
+  {
+    "_id": "644d8626ce1f7b2e1f64b685",
+    "course_number": "ART101",
+    "course_name": "Introduction to Art History",
+    "credits": 3,
+    "lecturer": "Prof. Robert Green",
+    "location": "Building H, Room 201"
+  }
+]
